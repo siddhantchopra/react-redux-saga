@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "siddhant",
+      "fullName": "Siddhant Chopra",
+      "image": "http://localhost:3001/images/alberto.png",
+      "status":"Travelling",
+      "password":"12345"
+    },
+    {
+      "id": 2,
+      "name": "vaibhav",
+      "fullName": "Vaibhav Gurani",
+      "image": "http://localhost:3001/images/alberto.png",
+      "status":"Busy",
+      "password":"12345"
+    },
+    {
+      "id": 3,
+      "name": "anshuman",
+      "fullName": "Anshuman Thakur",
+      "image": "http://localhost:3001/images/alberto.png",
+      "status":"Not Available",
+      "password":"12345"
+    }
+  ],
+  "posts": [
+    {
+      "name": "siddhant",
+      "title": "post 1",
+      "description":"lorem ipsum siddhant  lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant "
+    },
+    {
+      "name": "siddhant",
+      "title": "post 2",
+      "description":"lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant  "
+    },
+    {
+      "name": "siddhant",
+      "title": "post 3",
+      "description":"lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant "
+    },
+    {
+      "name": "siddhant",
+      "title": "post 4",
+      "description":"lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant lorem ipsum siddhant  "
+    },
+    {
+      "name": "vaibhav",
+      "title": "post 1",
+      "description":"lorem ipsum vaibhav lorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhav"
+    },
+    {
+      "name": "vaibhav",
+      "title": "post 2",
+      "description":"lorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhav lorem ipsum vaibhav"
+    },
+    {
+      "name": "vaibhav",
+      "title": "post 3",
+      "description":"lorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhav"
+    },
+    {
+      "name": "vaibhav",
+      "title": "post 4",
+      "description":"lorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhavlorem ipsum vaibhav"
+    },
+    {
+      "name": "anshuman",
+      "title": "post 1",
+      "description":"lorem ipsum anshuman lorem ipsum anshuman lorem ipsum anshuman lorem ipsum anshuman "
+    },
+    {
+      "name": "anshuman",
+      "title": "post 2",
+      "description":"lorem ipsum anshuman lorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshuman"
+    },
+    {
+      "name": "anshuman",
+      "title": "post 3",
+      "description":"lorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshuman"
+    },
+    {
+      "name": "anshuman",
+      "title": "post 4",
+      "description":"lorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshumanlorem ipsum anshuman"
+    }
+  ]
+}

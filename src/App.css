@@ -1,0 +1,48 @@
+.Busy {
+  height: 14px;
+  width: 14px;
+  background-color: orange;
+  border-radius: 50%;
+  }
+  .Travelling {
+    height: 14px;
+    width: 14px;
+    background-color: blue;
+    border-radius: 50%;
+    }
+    .Not.Available {
+      height: 14px;
+      width: 14px;
+      background-color: red;
+      border-radius: 50%;
+      }
+  .postinput {
+      width: 50%;
+      display: inline-block;
+      margin-right: 20px;
+  }
+  .postData {
+      height: 320px;
+      overflow-x: hidden;
+  }
+  .postData::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  .postData::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+  /* Handle */
+.postData::-webkit-scrollbar-thumb {
+    background: grey; 
+    border-radius: 10px;
+  }
+  .userCon{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.card.login{
+  width: 60%
+}
