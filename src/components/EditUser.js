@@ -15,20 +15,20 @@ export const EditUser = (props) => {
                    
               
                 <div class="form-group">
-                    <label htmlFor="exampleInputEmail1">Full Name</label>
-                    <input type="text" value={local.fullName} class="form-control" id="exampleInputEmail1" placeholder="Enter Fullname" />
+                    <label htmlFor="fullname">Full Name</label>
+                    <input type="text" value={local.fullName} class="form-control" id="fullname" placeholder="Enter Fullname" />
                 </div>
                 <div class="form-group">
-                    <label htmlFor="exampleInputEmail1">UserName</label>
-                    <input type="text" value={local.name} class="form-control" id="exampleInputEmail1" placeholder="Enter Username" />
+                    <label htmlFor="username">UserName</label>
+                    <input type="text" value={local.name} class="form-control" id="username" placeholder="Enter Username" />
                 </div>
                 <div class="form-group">
-                    <label htmlFor="exampleInputEmail1">Status</label>
-                    <input type="text" value={local.status} class="form-control" id="exampleInputEmail1" placeholder="Enter Status" />
+                    <label htmlFor="status">Status</label>
+                    <input type="text" value={local.status} class="form-control" id="status" placeholder="Enter Status" />
                 </div>
                 <div class="form-group">
-                    <label htmlFor="exampleInputPassword1">Password</label>
-                    <input type="password" value={local.password} class="form-control" id="exampleInputPassword1" placeholder="Password" />
+                    <label htmlFor="password">Password</label>
+                    <input type="password" value={local.password} class="form-control" id="password" placeholder="Password" />
                 </div>
 
                 <button type="submit" class="btn btn-primary">SAVE DATA</button>
